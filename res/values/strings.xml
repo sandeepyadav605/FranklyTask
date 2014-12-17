@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaskFrankly</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="enter_number">Enter "n"</string>
+    <string name="submit">Submit</string>
+    <string name="frankly_me">Frankly.me</string>
+
+</resources>
